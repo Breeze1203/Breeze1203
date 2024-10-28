@@ -58,4 +58,8 @@
 </table>
 </br>
 </br>
+<h2>📕 Latest Blog Posts</h2>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
