@@ -5,8 +5,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Breeze1203&show_icons=false&bg_color=#FFFFFF"/>
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breeze1203&layout=compact&card_width=500"/>
-</a>
 
 
