@@ -18,7 +18,6 @@
   <img alt="html" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </h5>
-<h2>My Repositories</h2>
 <table align="center">
   <thead align="center">
     <tr border: none;>
