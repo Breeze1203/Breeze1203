@@ -53,3 +53,5 @@
   </tbody>
 </table>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/Breeze1203/github-readme-stats)
+
