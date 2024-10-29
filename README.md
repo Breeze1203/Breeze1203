@@ -66,6 +66,9 @@
 </br>
 </br>
 <h2>📕 Latest Blog Posts</h2>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Breeze1203/Breeze1203/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Breeze1203/Breeze1203/output/github-contribution-grid-snake.svg">
