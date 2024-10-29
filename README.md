@@ -30,7 +30,6 @@
       <td><b>📚 Forks</b></td>
       <td><b>🛎 Issues</b></td>
       <td><b>📬 Pull requests</b></td>
-      <td><b>📬 Lanaunage</b></td>
     </tr>
   </thead>
   <tbody>
