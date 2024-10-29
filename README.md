@@ -54,6 +54,13 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/Breeze1203/study-essay?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Breeze1203/study-essay?style=flat-square&labelColor=343b41"/></td>
     </tr>
+     <tr>
+       <td><a href="https://github.com/Breeze1203/Go"><b>go</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Breeze1203/Go?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Breeze1203/Go?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Breeze1203/Go?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Breeze1203/Go?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
 </br>
