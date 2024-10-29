@@ -66,6 +66,12 @@
 </br>
 </br>
 <h2>📕 Latest Blog Posts</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Breeze1203/Breeze1203/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Breeze1203/Breeze1203/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Breeze1203/Breeze1203/output/github-contribution-grid-snake.svg">
+</picture>
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 <img src="profile-3d-contrib/profile-gitblock.svg" alt="描述" />
