@@ -41,14 +41,14 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Breeze1203/shardingsphere-example?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
-      <td><a href="https://github.com/Breeze1203/SpringCloud"><b>springcloud组件可视化</b></a></td>
+      <td><a href="https://github.com/Breeze1203/SpringCloud"><b>springcloud admin</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Breeze1203/SpringCloud?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/Breeze1203/SpringCloud?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/Breeze1203/SpringCloud?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Breeze1203/SpringCloud?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Breeze1203/springsecurity6.0"><b>springsecurity最新版</b></a></td>
+      <td><a href="https://github.com/Breeze1203/springsecurity6.0"><b>springsecurity latest</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Breeze1203/springsecurity6.0?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/Breeze1203/springsecurity6.0?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/Breeze1203/springsecurity6.0?style=flat-square&labelColor=343b41"/></td>
