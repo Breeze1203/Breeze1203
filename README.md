@@ -1,6 +1,6 @@
 <h2 align="center">Hi there 👋</h2>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F78A13&width=600&height=40&lines=%E5%9C%A8%E9%80%BB%E8%BE%91%E7%9A%84%E6%A3%AE%E6%9E%97%E9%87%8C%EF%BC%8C%E4%BB%A3%E7%A0%81%E5%A6%82%E8%AF%97%E8%A1%8C%E8%88%AC%E6%B5%81%E6%B7%8C%EF%BC%8C%E8%AE%BE%E8%AE%A1%E7%9A%84%E7%94%BB%E7%AC%94%E7%BB%98%E5%87%BA%E6%A2%A6%E6%83%B3%E7%9A%84%E6%A8%A1%E6%A0%B7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78A13&width=435&lines=%E4%BB%A5%E8%87%AA%E5%B7%B1%E6%83%B3%E8%A6%81%E7%9A%84%E6%96%B9%E5%BC%8F%E8%BF%87%E5%AE%8C%E4%B8%80%E7%94%9F%EF%BC%8C%E5%B0%B1%E6%98%AF%E6%88%90%E5%8A%9F!!!)](https://git.io/typing-svg)
 
 <h2>Things I code with</h2>
 </br>
