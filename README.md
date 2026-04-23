@@ -46,7 +46,7 @@
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Breeze1203/AiDevOps?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/Breeze1203/AiDevOps?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/Breeze1203/AiDevOps?style=flat-square&labelColor=343b41"/></td>
-      <td><im
+       </tr>
 	  <tr>
       <td><a href="https://github.com/Breeze1203/design-patterns"><b>设计模式</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Breeze1203/design-patterns?style=flat-square&labelColor=343b41"/></td>
