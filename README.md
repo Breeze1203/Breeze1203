@@ -33,7 +33,7 @@
 ## 📌 Key Projects
 
 | Project | Tech | Highlight |
-|---------|------|-----------|
+|---------|------|----------|
 | **[AI DevOps](https://github.com/Breeze1203/AiDevOps)** | Python/LLM | Intelligent diagnostic system for infrastructure issues |
 | **[Spring Cloud Admin](https://github.com/Breeze1203/SpringCloud)** | Java | Complete microservices ecosystem with monitoring |
 | **[ShardingSphere Example](https://github.com/Breeze1203/shardingsphere-example)** | Java | Distributed database patterns & best practices |
