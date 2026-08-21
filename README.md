@@ -44,27 +44,15 @@ I'm a passionate developer focused on building **scalable systems**, **cloud-nat
 
 ## 📌 Highlight Projects
 
-| Project | Stars | Description |
-|---------|-------|-------------|
-| **[AI DevOps](https://github.com/Breeze1203/AiDevOps)** | 🔗 | AI-powered diagnostic assistant for DevOps automation |
-| **[Spring Cloud Admin](https://github.com/Breeze1203/SpringCloud)** | 🔗 | Complete microservices architecture reference implementation |
-| **[ShardingSphere Example](https://github.com/Breeze1203/shardingsphere-example)** | 🔗 | Database sharding & distributed transaction patterns |
-| **[Design Patterns](https://github.com/Breeze1203/design-patterns)** | 🔗 | 23 classic design patterns with Java examples |
-| **[Spring Security 6.0](https://github.com/Breeze1203/springsecurity6.0)** | 🔗 | Latest authentication & authorization implementation |
-| **[Java Advanced](https://github.com/Breeze1203/JavaAdvanced)** | 🔗 | Deep dive into Java internals & advanced features |
-| **[Go Programming](https://github.com/Breeze1203/Go)** | 🔗 | Go language learning path with practical examples |
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Breeze1203&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Breeze1203&layout=compact&theme=tokyonight)
-
-</div>
+| Project | Description |
+|---------|-------------|
+| **[AI DevOps](https://github.com/Breeze1203/AiDevOps)** | AI-powered diagnostic assistant for DevOps automation |
+| **[Spring Cloud Admin](https://github.com/Breeze1203/SpringCloud)** | Complete microservices architecture reference implementation |
+| **[ShardingSphere Example](https://github.com/Breeze1203/shardingsphere-example)** | Database sharding & distributed transaction patterns |
+| **[Design Patterns](https://github.com/Breeze1203/design-patterns)** | 23 classic design patterns with Java examples |
+| **[Spring Security 6.0](https://github.com/Breeze1203/springsecurity6.0)** | Latest authentication & authorization implementation |
+| **[Java Advanced](https://github.com/Breeze1203/JavaAdvanced)** | Deep dive into Java internals & advanced features |
+| **[Go Programming](https://github.com/Breeze1203/Go)** | Go language learning path with practical examples |
 
 ---
 
@@ -84,7 +72,6 @@ I'm a passionate developer focused on building **scalable systems**, **cloud-nat
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/Breeze1203)
 [![Portfolio](https://img.shields.io/badge/Portfolio-667EEA?style=for-the-badge&logo=netlify)](https://breeze1203.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
 
 **Building the future, one commit at a time.** 🚀
 
