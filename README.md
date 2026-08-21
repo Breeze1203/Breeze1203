@@ -1,85 +1,51 @@
 <div align="center">
 
-# 👋 Welcome to My GitHub
+# 👋 Full-Stack Developer & System Architect
 
-### Full-Stack Developer | Backend Engineer | Open Source Enthusiast
+**Java | Go | Python | Spring Cloud | Microservices | DevOps**
 
 ```
-💻 Clean Code | 🚀 Fast Shipping | 🎯 High Impact
+💻 Build scalable systems | 🚀 Ship fast | 🎯 High impact
 ```
 
 </div>
 
 ---
 
-## 🎯 About Me
+## 🎯 What I Do
 
-I'm a passionate developer focused on building **scalable systems**, **cloud-native applications**, and **distributed architecture**. Specializing in Java, Go, and modern backend technologies.
-
-- 🔧 **Backend Systems**: Java, Spring Cloud, Microservices
-- ⚡ **Performance**: Optimization, Caching, Distributed Computing
-- 🌍 **DevOps**: Docker, Kubernetes, CI/CD, Cloud Infrastructure
-- 📚 **Always Learning**: New technologies and best practices
+🔧 **Backend Architecture** - Microservices, Distributed Systems, Cloud-Native  
+⚡ **Performance** - Optimization, Caching, High Concurrency  
+🌍 **DevOps** - Docker, Kubernetes, CI/CD Pipelines  
+🤝 **Open Source** - Contributing quality, maintainable code
 
 ---
 
-## 🛠️ Core Expertise
+## 🛠️ Tech Stack
 
-### Languages
-```java Go Python JavaScript TypeScript```
-
-### Backend & Frameworks
-```Spring Boot | Spring Cloud | Microservices | Node.js```
-
-### Databases & Cache
-```MySQL | Redis | Elasticsearch | MongoDB```
-
-### DevOps & Infrastructure
-```Docker | Kubernetes | Linux | Nginx | GitHub Actions```
-
-### Frontend
-```React | Vue.js | HTML/CSS | NPM```
+**Languages:** Java | Go | Python | JavaScript  
+**Frameworks:** Spring Boot | Spring Cloud | Gin | Node.js  
+**Databases:** MySQL | Redis | MongoDB | Elasticsearch  
+**DevOps:** Docker | Kubernetes | Linux | Nginx | GitHub Actions
 
 ---
 
-## 📌 Highlight Projects
+## 📌 Key Projects
 
-| Project | Description |
-|---------|-------------|
-| **[AI DevOps](https://github.com/Breeze1203/AiDevOps)** | AI-powered diagnostic assistant for DevOps automation |
-| **[Spring Cloud Admin](https://github.com/Breeze1203/SpringCloud)** | Complete microservices architecture reference implementation |
-| **[ShardingSphere Example](https://github.com/Breeze1203/shardingsphere-example)** | Database sharding & distributed transaction patterns |
-| **[Design Patterns](https://github.com/Breeze1203/design-patterns)** | 23 classic design patterns with Java examples |
-| **[Spring Security 6.0](https://github.com/Breeze1203/springsecurity6.0)** | Latest authentication & authorization implementation |
-| **[Java Advanced](https://github.com/Breeze1203/JavaAdvanced)** | Deep dive into Java internals & advanced features |
-| **[Go Programming](https://github.com/Breeze1203/Go)** | Go language learning path with practical examples |
-
----
-
-## 🌟 What I Do
-
-✨ **Architecture Design** - Designing scalable, maintainable systems  
-🔌 **System Integration** - Building robust APIs and microservices  
-📈 **Performance Optimization** - Profiling, tuning, and scaling applications  
-🤝 **Open Source** - Contributing to and maintaining quality projects  
-📖 **Knowledge Sharing** - Writing technical articles and documentation  
+| Project | Tech | Highlight |
+|---------|------|-----------|
+| **[AI DevOps](https://github.com/Breeze1203/AiDevOps)** | Python/LLM | Intelligent diagnostic system for infrastructure issues |
+| **[Spring Cloud Admin](https://github.com/Breeze1203/SpringCloud)** | Java | Complete microservices ecosystem with monitoring |
+| **[ShardingSphere Example](https://github.com/Breeze1203/shardingsphere-example)** | Java | Distributed database patterns & best practices |
+| **[Design Patterns](https://github.com/Breeze1203/design-patterns)** | Java | 23 patterns with real-world examples |
+| **[Spring Security 6.0](https://github.com/Breeze1203/springsecurity6.0)** | Java | Modern auth & authorization framework |
+| **[Java Advanced](https://github.com/Breeze1203/JavaAdvanced)** | Java/Go | Deep-dive into JVM, concurrency, messaging |
+| **[Study Essays](https://github.com/Breeze1203/study-essay)** | Docs | Technical insights & learning resources |
 
 ---
-
-## 📫 Let's Connect
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/Breeze1203)
-[![Portfolio](https://img.shields.io/badge/Portfolio-667EEA?style=for-the-badge&logo=netlify)](https://breeze1203.vercel.app)
-
-**Building the future, one commit at a time.** 🚀
+**[GitHub](https://github.com/Breeze1203) · [Portfolio](https://breeze1203.vercel.app)**
 
 </div>
-
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Breeze1203/Breeze1203/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Breeze1203/Breeze1203/output/github-contribution-grid-snake.svg">
-  <img alt="contribution-snake" src="https://raw.githubusercontent.com/Breeze1203/Breeze1203/output/github-contribution-grid-snake.svg">
-</picture>
